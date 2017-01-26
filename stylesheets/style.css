@@ -1,3 +1,55 @@
  body{
  	background-color: black;
  }
+
+
+p{
+	font-family: 'Sentinel SSm A', 'Sentinel SSm B'; 
+	font-weight: 400; 
+	font-style: normal;
+	color:white;
+}
+
+h2{
+	text-align:right;
+	font-family: 'Sentinel SSm A', 'Sentinel SSm B'; 
+	font-weight: 400; 
+	font-style: normal;
+	color:#ffd88e;
+}
+.nav li{
+	list-style: none;
+	display:inline-block;
+	float:left;
+	text-decoration: none;
+	color:white;
+}
+
+.logo{
+	width:250px;
+	margin-top: 20px;
+}
+
+#header{
+	height: 130px;
+	border-bottom:1px solid white;
+}
+
+#hero{
+	background: url("images/background.jpg") black repeat 55%;
+	height:100%;
+}
+.nav {
+	margin-top: 60px;
+	float:right;
+}
+.nav li{
+	margin-left:20px;
+	display:inline-block;
+}
+
+.nav li a{
+	text-transform: uppercase;
+	color:#646464;
+	text-decoration: none;
+}
