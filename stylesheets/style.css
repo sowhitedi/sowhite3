@@ -21,12 +21,12 @@ h2{
 
 
 .logo{
-	width:225px;
+	width:170px;
 	margin-top: 30px;
 }
 
 #header{
-	height:45em;
+	height:42em;
 	width:100%;
 	background: url("/images/background.jpg") 55% 0 repeat-x;
 	background-size:cover;
@@ -34,15 +34,15 @@ h2{
 }
 
 .feature h2{
-	padding-top: 20%;
+	padding-top: 18%;
 }
 
 #nav{
-	height: 130px;
+	height: 100px;
 	border-bottom:.5px solid #818285;
 }
 .nav {
-	margin-top: 60px;
+	margin-top: 45px;
 	float:right;
 }
 
@@ -50,7 +50,7 @@ h2{
 	list-style: none;
 	display:inline-block;
 	float:left;
-	margin-left:40px;
+	margin-left:60px;
 
 }
 
