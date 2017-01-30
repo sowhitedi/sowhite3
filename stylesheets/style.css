@@ -6,8 +6,10 @@ p{
 	font-family: 'Sentinel SSm A', 'Sentinel SSm B'; 
 	font-weight: 400; 
 	font-style: normal;
-	color:white;
-	font-size: 12px;
+	color:#646464;
+	font-size: 16px;
+	text-align: left;
+	line-height: 20px;
 }
 
 h2{
@@ -19,6 +21,15 @@ h2{
 	color:#ffd88e;
 }
 
+h3{
+	text-align:center;
+	font-family: 'Gotham A', 'Gotham B';
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1em; 
+	font-style: normal;
+	color:#646464;
+}
 
 .logo{
 	width:170px;
@@ -57,11 +68,29 @@ h2{
 .nav li a{
 	font-family: 'Gotham A', 'Gotham B';
 	text-transform: uppercase;
-	color: #fff;
+	color: #8c8c8c;
 	text-decoration: none;
 	font-weight: 600; 
 	font-size: .85em;
 	font-style: normal;
 	font-weight:normal;
 	letter-spacing: 1px;
+}
+.divider{
+	border-top: 10px solid #646464;
+}
+
+#about{
+	margin-top: 60px;
+}
+
+.discover{
+	background: url("/images/discover.jpg") 50% 0; 
+	background-size: 100%;
+	height:300px;
+}
+
+.discover h2{
+	text-align: center;
+	padding-top: 220px;
 }
