@@ -85,12 +85,25 @@ h3{
 }
 
 .discover{
-	background: url("/images/discover.jpg") 50% 0; 
+	background: url("/images/discover.jpg"); 
 	background-size: 100%;
-	height:300px;
+	height:480px;
+	margin-top: 40px;
 }
 
 .discover h2{
 	text-align: center;
-	padding-top: 220px;
+	padding-top: 180px;
+}
+
+.collaborate{
+	background: url("/images/collaborate.jpg"); 
+	background-size: 100%;
+	height:480px;
+	margin-top: 40px;
+}
+
+.collaborate h2{
+	text-align: center;
+	padding-top: 180px;
 }
